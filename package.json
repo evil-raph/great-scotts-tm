@@ -1,0 +1,25 @@
+{
+  "name": "great-scotts-tm",
+  "version": "0.0.1",
+  "description": "Slack bot to manage Scott emojis usage by team members",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evil-raph/great-scotts-tm.git"
+  },
+  "keywords": [
+    "scott",
+    "emojis",
+    "slack",
+    "ranking"
+  ],
+  "author": "Raphael Victor Ferreira (raphael.rvf@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evil-raph/great-scotts-tm/issues"
+  },
+  "homepage": "https://github.com/evil-raph/great-scotts-tm#readme"
+}
